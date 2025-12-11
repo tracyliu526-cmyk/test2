@@ -1,0 +1,5 @@
+{
+  "name": "Geometric Christmas Tree 2025",
+  "description": "A 3D interactive Christmas experience featuring a geometric tree that transforms into text, rendered with Three.js and InstancedMesh for high performance.",
+  "requestFramePermissions": []
+}
